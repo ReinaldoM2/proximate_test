@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproximate_test"]=self["webpackChunkproximate_test"]||[]).push([[851],{7851:function(t,n,e){e.r(n),e.d(n,{default:function(){return o}});var r=e(3396);const u=(0,r._)("h1",null,"hola",-1),a=[u];function s(t,n){return(0,r.wg)(),(0,r.iD)("div",null,a)}var c=e(89);const i={},l=(0,c.Z)(i,[["render",s]]);var o=l}}]);
+//# sourceMappingURL=851.5ab645ea.js.map
